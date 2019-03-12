@@ -1,0 +1,228 @@
+* {
+	margin: 0px;
+}
+
+body {
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	font-size: 16px; 
+	background-color: #ffa; 
+}
+.Login {
+	background: #ddd;
+	width: 400px;
+	margin: 100px auto;
+}
+.register{
+	background-color: #ddd;
+	width: 500PX;
+	margin: 100px auto;
+	
+
+}
+.registerdoctor{
+	background-color: #ddd;
+	width: 500PX;
+	margin: 100px auto;
+	
+
+}
+
+p{
+	margin-bottom: 15px;
+}
+
+.useredit {
+	background: #ddd;
+	width: 500px;
+	margin: 100px auto;
+	margin-left: 10px;
+}
+.doctorlist {
+	background: #ddd;
+	width: 250px;
+	margin: 10px auto;
+	
+	margin-bottom: 10px;
+}
+.searchForm {
+	background: #ddd;
+	width: 500px;
+	margin:10PX auto;
+	margin-left: 10px;
+
+}
+.ccpayment {
+	background: #ddd;
+	width: 500px;
+	margin:10PX auto;
+	margin-left: 10px;
+
+}
+
+header {
+	padding:10px;
+	overflow: auto;
+	background: #eee;
+	height: 120px;
+}
+
+header .loggedin {
+	float: right;
+	font-size: 20px;
+	padding: 10px;
+	margin-top: 35px
+}
+header .appname {
+	float: left;
+	font-size: 35px;
+	margin-left: 450px;
+	margin-top: 35px;
+	color: red;
+}
+footer {
+	
+	padding: 100px;
+	margin-left: 420px;
+	margin-bottom: 0px;
+	background: #eee;
+	overflow: auto;
+	font-size: 20px;
+	
+
+}
+main{
+	width: 450px;
+	margin: 30px auto;
+	background-color: #eee;
+	
+}
+
+p.info {
+	background: green;
+	color: white;
+	font-size: 20px;
+
+}
+p.error {
+	background: red;
+	color: white;
+	font-size: 20px;
+}
+
+.errmsg{
+	color: red;
+}
+
+input{
+	display: block;
+	width: 100%;
+	padding: 5px;
+	box-sizing: border-box;
+	font-size: 14px;
+}
+
+button{
+	width: 100%;
+	padding: 5px
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	background: #eff;
+
+}
+.legend{
+	font-size: 35px;
+
+}.legenddoctorname{
+	font-size: 20px;
+
+}
+.Register{
+	font-size: 20px;
+
+}
+
+ul.nevigation{
+	margin-top: 0px;
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	width: 25%;
+	background-color: #f1f1f1;
+	height: 100%;
+	position: fixed;
+	overflow: auto;
+
+} 
+
+
+.nevigation li a{
+	margin-bottom: 15px;
+	font-size: 28px;
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 12px 18px;
+	text-decoration: none;
+	margin-left: 0px;
+	text-decoration: none;
+	
+
+}
+
+.nevigation li a:hover {
+	background-color: #555;
+	
+
+}
+
+.active {
+	background-color: red;
+}
+
+
+table.managedoctor{
+	width: 100px;
+	border-collapse: collapse;
+	background-color: #eee;
+}
+table.managedoctor th{
+	text-align: left;
+	color: #000;
+	background-color: #ccc;
+}
+
+table.managedoctor th, table.managedoctor td{
+	padding: 10px;
+	border-bottom: 1px solid #aaa;
+}
+main h1 span{
+	font-size: 25px;
+}
+
+p .usrregbklog{
+	display: block;
+	padding: 0px;
+	text-decoration: none;
+	color: #111;
+	width: 40px;
+
+}
+
+.loginoption{
+	text-decoration: none;
+}
+a {
+	text-decoration: none;
+	
+
+}
+
+a:hover {
+	background-color: white
+
+}
+
+.active {
+	background-color: red
+}
